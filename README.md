@@ -39,13 +39,13 @@ Heya ppl! myself Labhansh Vashisht<br>First-year undergrad passionate about codi
 
 # 🚀 Interests
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity
-- 📊 Data Science & Analytics
-- 💻 Software Engineering
-- 🌐 Open Source Development
-- ⚡ Problem Solving
-- 📱 Building Practical Applications
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Data Science & Analytics
+- Software Engineering
+- Open Source Development
+- Problem Solving
+- Building Practical Applications
 
 ---
 
@@ -101,4 +101,3 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or work
 
 ---
 
-> **"Code with curiosity. Build with purpose. Learn without limits."**
