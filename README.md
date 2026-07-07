@@ -1,12 +1,6 @@
 # 💫 About Me
 
-Hi there! I'm **Labhansh Vashisht** 👋
-
-I'm a Computer Science undergraduate passionate about **Software Development, Artificial Intelligence, Data Science, and Cybersecurity**. I enjoy building practical applications, solving real-world problems, and continuously expanding my knowledge of modern technologies.
-
-My interests span across **Python development, AI/ML, Data Analytics, Full-Stack Development, and Open Source**. I enjoy experimenting with new technologies, learning software engineering best practices, and turning ideas into impactful projects.
-
-Currently, I'm focused on strengthening my expertise in **Machine Learning, Cybersecurity, Software Engineering, and Data Science** while contributing to meaningful projects and growing as a developer.
+Heya ppl! myself Labhansh Vashisht<br>First-year undergrad passionate about coding, problem-solving, and building practical projects. <br>I work with Python and have explored AI/ML libraries, data science, Streamlit, C, C++, and R. <br>I also love learning about cybersecurity fundamentals and enjoy vibe coding while experimenting with new ideas and technologies.<br>
 
 ---
 
@@ -18,7 +12,7 @@ Currently, I'm focused on strengthening my expertise in **Machine Learning, Cybe
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack  
 
 ### 👨‍💻 Languages
 
