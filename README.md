@@ -59,12 +59,6 @@ Heya ppl! myself Labhansh Vashisht<br>First-year undergrad passionate about codi
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Grignardz&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
-
----
-
 ## 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grignardz&theme=tokyo-night&hide_border=true)](https://github.com/Grignardz)
