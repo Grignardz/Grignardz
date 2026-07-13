@@ -1,6 +1,6 @@
 # Labhansh Vashisht
 
-![Profile Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/dark.svg)
+![Profile Banner](https://raw.githubusercontent.com/Grignardz/Grignardz/main/dark.svg)
 
 ---
 
@@ -16,9 +16,9 @@ I work with Python and have explored AI/ML libraries, data science, Streamlit, C
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/labhsolutely)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vashishtlabhansh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grignardz)
 
 ---
 
@@ -59,9 +59,9 @@ I work with Python and have explored AI/ML libraries, data science, Streamlit, C
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grignardz&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grignardz&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -89,10 +89,10 @@ I work with Python and have explored AI/ML libraries, data science, Streamlit, C
 
 Feel free to reach out if you'd like to collaborate, discuss technology, or work on interesting projects.
 
-- 📧 **Email:** your.email@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/labhansh](https://linkedin.com/in/labhansh)
-- 🐙 **GitHub:** [github.com/labhansh](https://github.com/labhansh)
-- 📸 **Instagram:** [@labhansh](https://instagram.com/labhansh)
+- 📧 **Email:** labhanshvashisht2103@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/vashishtlabhansh](https://linkedin.com/in/vashishtlabhansh)
+- 🐙 **GitHub:** [github.com/Grignardz](https://github.com/Grignardz)
+- 📸 **Instagram:** [@labhsolutely](https://instagram.com/labhsolutely)
 
 ---
 
