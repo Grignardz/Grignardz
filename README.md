@@ -95,3 +95,8 @@ Feel free to reach out if you'd like to collaborate, discuss technology, or work
 
 ---
 
+<div align="center">
+
+![snake gif](https://github.com/grignardian/grignardian/blob/output/github-snake-dark.svg)
+
+<div/>
