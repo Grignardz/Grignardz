@@ -51,17 +51,17 @@ Heya ppl! myself Labhansh Vashisht<br>First-year undergrad passionate about codi
 
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Grignardz&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=grignardian&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Grignardz&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=grignardian&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grignardz&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=grignardian&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grignardz&theme=tokyo-night&hide_border=true)](https://github.com/Grignardz)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=grignardian&theme=tokyo-night&hide_border=true)](https://github.com/grignardian)
 
 ---
 
